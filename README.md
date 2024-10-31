@@ -11,9 +11,3 @@
 - react-toastify
 - react-icons
 
-# MovieWebSite
-# MovieWebSite
-# MovieSite
-# MovieSite
-# movieSite
-# MovieSite
